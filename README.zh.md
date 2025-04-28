@@ -23,11 +23,15 @@
   </p>
 </div>
 
-![Videoer 1](./assets/screenshots-1-cn.jpg)
-![Videoer 2](./assets/screenshots-2-cn.jpg)
-![Videoer 3](./assets/screenshots-3-cn.jpg)
-![Videoer 4](./assets/screenshots-4-cn.jpg)
-![Videoer 5](./assets/screenshots-5-cn.jpg)
+![Videoer 1](./assets/screenshots-1-cn.png)
+
+![Videoer 2](./assets/screenshots-2-cn.png)
+
+![Videoer 3](./assets/screenshots-3-cn.png)
+
+![Videoer 4](./assets/screenshots-4-cn.png)
+
+![Videoer 5](./assets/screenshots-5-cn.png)
 
 Videoer 是一款功能强大的视频格式转换工具，支持 MP4、MKV、M4V、MOV、WEBM、AVI、GIF 等格式之间的相互转换。无论是单个文件转换还是批量处理，都能轻松完成。同时，Videoer 还提供音频提取、字幕管理等多种实用功能，让你的视频处理更加高效便捷。
 

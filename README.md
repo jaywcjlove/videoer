@@ -23,11 +23,15 @@
   </p>
 </div>
 
-![videoer 1](./assets/screenshots-1.jpg)
-![videoer 2](./assets/screenshots-2.jpg)
-![videoer 3](./assets/screenshots-3.jpg)
-![videoer 4](./assets/screenshots-4.jpg)
-![videoer 5](./assets/screenshots-5.jpg)
+![videoer 1](./assets/screenshots-1.png)
+
+![videoer 2](./assets/screenshots-2.png)
+
+![videoer 3](./assets/screenshots-3.png)
+
+![videoer 4](./assets/screenshots-4.png)
+
+![videoer 5](./assets/screenshots-5.png)
 
 Videoer is a powerful video format conversion tool that supports mutual conversion between MP4, MKV, M4V, MOV, WEBM, AVI, GIF, and other formats. Whether converting a single file or processing multiple files in batches, Videoer makes it easy. Additionally, Videoer provides various practical features such as audio extraction and subtitle management, making your video processing more efficient and convenient.
 

@@ -33,11 +33,11 @@
 
 ![videoer 5](./assets/screenshots-5.png)
 
-Videoer is a powerful video format conversion tool that supports mutual conversion between MP4, MKV, M4V, MOV, WEBM, AVI, GIF, and other formats. Whether converting a single file or processing multiple files in batches, Videoer makes it easy. Additionally, Videoer provides various practical features such as audio extraction and subtitle management, making your video processing more efficient and convenient.
+Videoer is a powerful video format conversion tool that supports mutual conversion between MP4, MKV, M4V, MOV, WEBM, AVI, GIF, 3GP, FLV, MPG and other formats. Whether converting a single file or processing multiple files in batches, Videoer makes it easy. Additionally, Videoer provides various practical features such as audio extraction and subtitle management, making your video processing more efficient and convenient.
 
 ### Features
 
-■ Video Conversion - Easily convert between various popular video formats, including MP4, MKV, M4V, MOV, WEBM, AVI, and GIF.  
+■ Video Conversion - Easily convert between various popular video formats, including MP4, MKV, M4V, MOV, WEBM, AVI, GIF, 3GP, FLV, and MPG.  
 ■ Audio Extraction - Extract audio from video and export it to formats such as MP3, AAC, WAV, FLAC, ALAC, OGG, OPUS, AC3, EAC3, DTS, and TrueHD.  
 ■ Subtitle Export - Analyze and extract embedded or external subtitle files (such as SRT, ASS, and VTT) from videos.  
 ■ Add Subtitles - Embed subtitles into videos, supporting multiple subtitle formats to enhance the viewing experience.  

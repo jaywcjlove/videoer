@@ -5,6 +5,16 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.0.0)
+
+1. feat: support importing video files from Dock.
+2. feat: add support for macOS 26.
+
+---
+
+1. feat：支持从 Dock 导入视频文件。
+2. feat：添加对 macOS 26 的支持。
+
 ## [v1.2.0](https://github.com/jaywcjlove/videoer/releases/tag/v1.2.0)
 
 1. feat: Add support for converting between 3GP formats.

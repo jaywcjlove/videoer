@@ -31,8 +31,6 @@
 
 ![Videoer 4](./assets/screenshots-4-cn.png)
 
-![Videoer 5](./assets/screenshots-5-cn.png)
-
 Videoer 是一款功能强大的视频格式转换工具，支持 MP4、MKV、M4V、MOV、WEBM、AVI、GIF、3GP、FLV、MPG 等格式之间的相互转换。无论是单个文件转换还是批量处理，都能轻松完成。同时，Videoer 还提供音频提取、字幕管理等多种实用功能，让你的视频处理更加高效便捷。
 
 ### 主要功能

@@ -5,6 +5,19 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.1.0)
+
+1. style: Optimize homepage styling.
+2. fix: Resolve menu localization issues.
+3. fix: Resolve issue with paid unlock verification error.
+
+---
+
+1. style: 优化首页样式
+2. fix: 修复菜单本地化问题
+3. fix: 修复付费解锁验证错误的问题
+
+
 ## [v2.0.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.0.0)
 
 1. feat: support importing video files from Dock.

@@ -10,6 +10,7 @@
   <h1>
     Videoer
   </h1>
+  <p><strong>Video converter for macOS with batch conversion, audio extraction, and subtitle tools.</strong></p>
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.zh.md">简体中文</a> • 
@@ -31,16 +32,78 @@
 
 ![videoer 4](./assets/screenshots-4.png)
 
-Videoer is a powerful video format conversion tool that supports mutual conversion between MP4, MKV, M4V, MOV, WEBM, AVI, GIF, 3GP, FLV, MPG and other formats. Whether converting a single file or processing multiple files in batches, Videoer makes it easy. Additionally, Videoer provides various practical features such as audio extraction and subtitle management, making your video processing more efficient and convenient.
+## What Is Videoer?
 
-### Features
+Videoer is a video converter app for macOS. It helps you convert video formats, extract audio, export subtitles, and add subtitles to videos from one desktop tool. If you need a simple Mac app for converting MP4, MKV, MOV, WEBM, AVI, GIF, 3GP, FLV, or MPG files, Videoer is built for that workflow.
 
-■ Video Conversion - Easily convert between various popular video formats, including MP4, MKV, M4V, MOV, WEBM, AVI, GIF, 3GP, FLV, and MPG.  
-■ Audio Extraction - Extract audio from video and export it to formats such as MP3, AAC, WAV, FLAC, ALAC, OGG, OPUS, AC3, EAC3, DTS, and TrueHD.  
-■ Subtitle Export - Analyze and extract embedded or external subtitle files (such as SRT, ASS, and VTT) from videos.  
-■ Add Subtitles - Embed subtitles into videos, supporting multiple subtitle formats to enhance the viewing experience.  
-■ Batch Video Conversion - Convert multiple video files simultaneously to improve processing efficiency.  
-■ Convert Videos Larger than 1GB - Easily handle large files while ensuring conversion quality.  
-■ Batch Audio Extraction - Extract audio from multiple videos at once, ideal for audio editing or archiving.  
+## Why Use Videoer?
 
-Whether you're a video editing enthusiast, content creator, or a professional who frequently processes video files, Videoer meets your needs and makes video conversion simpler and more efficient!  
+- Convert videos between common formats on macOS.
+- Batch process multiple files to save time.
+- Extract audio from video into popular audio formats.
+- Export subtitle tracks from video files.
+- Add subtitle files to videos for playback or sharing.
+- Handle large video files, including files larger than 1GB.
+
+## Features
+
+- Video Conversion: Convert between MP4, MKV, M4V, MOV, WEBM, AVI, GIF, 3GP, FLV, MPG, and other common video formats.
+- Audio Extraction: Export audio to MP3, AAC, WAV, FLAC, ALAC, OGG, OPUS, AC3, EAC3, DTS, and TrueHD.
+- Subtitle Export: Extract embedded or external subtitles such as SRT, ASS, and VTT.
+- Add Subtitles: Merge subtitle files into videos to improve accessibility and viewing.
+- Batch Video Conversion: Convert multiple video files at the same time.
+- Large File Support: Convert videos larger than 1GB while preserving output quality.
+- Batch Audio Extraction: Extract audio from multiple videos in one run.
+
+## Supported Formats
+
+### Supported video formats
+
+MP4, MKV, M4V, MOV, WEBM, AVI, GIF, 3GP, FLV, MPG
+
+### Supported audio export formats
+
+MP3, AAC, WAV, FLAC, ALAC, OGG, OPUS, AC3, EAC3, DTS, TrueHD
+
+### Supported subtitle formats
+
+SRT, ASS, VTT
+
+## Who Is It For?
+
+Videoer is useful for:
+
+- Content creators who need fast format conversion before publishing.
+- Video editors who need audio extraction or subtitle handling.
+- Mac users who want a lightweight desktop video converter.
+- Teams or individuals who often process multiple video files in batches.
+
+## Common Use Cases
+
+- Convert MKV to MP4 for easier playback and sharing.
+- Extract audio from video for podcasts, clips, or archiving.
+- Export subtitle tracks from downloaded or recorded videos.
+- Add subtitles to videos for tutorials, demos, or social media uploads.
+- Batch convert large video files on macOS.
+
+## FAQ
+
+### What does Videoer do?
+
+Videoer converts video files, extracts audio, exports subtitles, and adds subtitles on macOS.
+
+### Can Videoer batch convert videos?
+
+Yes. Videoer supports batch video conversion and batch audio extraction.
+
+### Can Videoer convert large video files?
+
+Yes. Videoer supports videos larger than 1GB.
+
+### Which subtitle formats does Videoer support?
+
+Videoer supports common subtitle formats including SRT, ASS, and VTT.
+
+### Is Videoer for macOS?
+
+Yes. Videoer is designed for macOS and is available on the Mac App Store.

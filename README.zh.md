@@ -18,7 +18,7 @@
     <a href="https://github.com/jaywcjlove/videoer/releases">变更日志</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/videoer/6742680573" title="videoer for macOS">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6742680573" title="videoer for macOS">
       <img alt="videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>

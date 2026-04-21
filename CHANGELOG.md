@@ -1,7 +1,7 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/videoer/6742680573" title="Videoer for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6742680573" title="Videoer for macOS">
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 

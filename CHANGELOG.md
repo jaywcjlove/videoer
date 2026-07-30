@@ -5,6 +5,16 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.3.0)
+
+1. fix(ui): explicitly show NSMenuItem symbol images on macOS 27+.
+2. feat: add support for WEBP format conversion.
+
+---
+
+1. 修复(界面)：macOS 27及以上系统强制显示菜单项符号图标
+2. 新增：支持 WEBP 格式转换
+
 ## [v2.2.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.2.0)
 
 1. feat: add German, French, Japanese, Korean, and Traditional Chinese support. 

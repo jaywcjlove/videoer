@@ -5,6 +5,16 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.2.0)
+
+1. feat: add German, French, Japanese, Korean, and Traditional Chinese support. 
+2. fix: fix window creation on "Open with" video files
+
+---
+
+1. feat：新增德语、法语、日语、韩语和繁体中文支持。
+2. fix：修复通过“打开方式”打开视频文件时窗口创建的问题。
+
 ## [v2.1.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.1.0)
 
 1. style: Optimize homepage styling.

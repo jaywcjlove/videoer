@@ -5,6 +5,18 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.4.0)
+
+1. feat: Add it/ru/vi language 
+2. chore: Update App Icon. 
+3. fix: resolve stuck conversion for large webm videos. 
+
+---
+
+1. feat: 添加意大利语、俄语、越南语本地化
+2. chore: 更新应用图标
+3. fix: 修复超大 webm 视频转换卡住的问题
+
 ## [v2.3.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.3.0)
 
 1. fix(ui): explicitly show NSMenuItem symbol images on macOS 27+.

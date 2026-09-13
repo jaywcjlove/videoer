@@ -5,6 +5,16 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.5.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.5.0)
+
+1. fix: optimize display issue of list loading window. 
+2. fix: resolve freeze issue during bulk export. 
+
+---
+
+1. fix: 优化列表加载窗口展示问题
+2. fix: 解决批量导出时卡顿问题
+
 ## [v2.4.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.4.0)
 
 1. feat: Add it/ru/vi language 

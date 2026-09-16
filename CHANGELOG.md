@@ -5,6 +5,18 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.6.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.6.0)
+
+1. feat: Skip folder creation when converting single file.
+2. feat: optimize display of property settings page.
+3. fix: Fix unclickable tab on property page.
+
+---
+
+1. feat: 转换单个文件时，跳过文件夹创建
+2. feat: 优化属性设置页展示效果
+3. fix: 修复属性页面标签页无法点击的问题
+
 ## [v2.5.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.5.0)
 
 1. fix: optimize display issue of list loading window. 

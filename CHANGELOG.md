@@ -5,6 +5,20 @@ Changelog
 <img alt="Videoer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.7.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.7.0)
+
+1. feat: add audio encoding option settings for export 
+2. feat: add export frame rate configuration. 
+3. fix: Fix jitter on appearance of menu bar button icons. 
+4. fix: fix detail not showing when single data is selected by default. 
+
+---
+
+1. feat: 新增导出音频编码选项设置
+2. feat: 新增导出帧率配置
+3. fix: 修复菜单栏按钮图标出现时抖动问题
+4. fix: 修复单条数据默认选中时详情未展示问题
+
 ## [v2.6.0](https://github.com/jaywcjlove/videoer/releases/tag/v2.6.0)
 
 1. feat: Skip folder creation when converting single file.
